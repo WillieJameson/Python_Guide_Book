@@ -1,0 +1,1 @@
+ImmutableMultiDict([('phrase', 'test req form'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.46|{'o', 'e'}
