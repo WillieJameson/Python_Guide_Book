@@ -1,8 +1,4 @@
 """count_from_by() is a function call, whereas CountFromBy() creates an object"""
-
-from pyparsing import countedArray
-
-
 class CountFromBy:
   def __init__(self, v: int=0 , i: int=1) -> None:
     self.val = v
